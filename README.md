@@ -12,3 +12,6 @@ This project focuses on customer segmentation in e-commerce by applying clusteri
 - **Profiling & Interpretation**: Segments were profiled using PCA component loadings, distribution plots, and statistical summaries to provide actionable insights into customer behaviours and preferences.
 
 ---
+
+## Run Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KYGiFKGdZRg6OGXOKEtvIz-FYKGEIvZP)
